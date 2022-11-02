@@ -9,7 +9,7 @@
 
 //   return average;
 // }
-
+Teste att
 
 function average(numbers) {
   const sum = numbers.reduce((accum, num) => accum + num, 0);
